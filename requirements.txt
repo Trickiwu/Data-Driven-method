@@ -1,0 +1,4 @@
+numpy
+scipy
+pypower == 5.1.15
+scikit-learn == 1.1.2
